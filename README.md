@@ -44,7 +44,7 @@ The project explores microphone-based sound detection, transistor switching, and
 
 Watch the LEDs respond to music and sound in the demonstration video uploaded to this repository.
 
-**Video:** [LED Demonstration](./Project Demonstration.mp4)
+**Video:** [LED Demonstration](./Project_Demonstration.mp4)
 
 > If your uploaded video has a different filename or extension, update the link above to match the exact filename displayed in your repository.
 
